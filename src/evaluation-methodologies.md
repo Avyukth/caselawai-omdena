@@ -8,16 +8,16 @@ We used the RAGAS framework to evaluate our RAG systems, focusing on the followi
 - Context Relevance: Evaluates the relevance of retrieved context chunks
 - Context Recall: Measures how well the retrieved context aligns with the ground truth answer
 
-## 7. Evaluation Results
+##  Evaluation Results
 
 [This section needs to be filled with numerical results after testing]
 
-## 8. Rationale for Choosing Hybrid RAG
+## Rationale for Choosing Hybrid RAG
 
 We ultimately chose the Hybrid RAG approach for the following reasons:
 
-1. Comprehensive Information Capture: Captures both structured relationships and semantic nuances
-2. Enhanced Entity Representation: Maintains clear representation of legal entities and relationships
-3. Improved Semantic Understanding: Ensures deep understanding of complex legal language
-4. Flexible Querying: Allows for both structured and open-ended legal queries
-5. Improved Accuracy: Leverages both structured and unstructured information for comprehensive responses
+- Comprehensive Information Capture: Captures both structured relationships and semantic nuances
+- Enhanced Entity Representation: Maintains clear representation of legal entities and relationships
+- Improved Semantic Understanding: Ensures deep understanding of complex legal language
+- Flexible Querying: Allows for both structured and open-ended legal queries
+- Improved Accuracy: Leverages both structured and unstructured information for comprehensive responses
