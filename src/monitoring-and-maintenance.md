@@ -7,3 +7,9 @@
 - Proactive software updates and security patches
 - Scalable infrastructure to handle increasing user demand
 
+## Challenges and Future Work
+
+- Scalability: Optimize for large-scale legal databases
+- Fine-tuning: Improve balance between vector and graph components
+- Explainability: Enhance reasoning capabilities
+- Expansion: Adapt to broader range of legal domains
