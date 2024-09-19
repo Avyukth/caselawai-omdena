@@ -12,7 +12,7 @@
 | Subhrajit Makur | [github.com/avyukth](https://github.com/avyukth) | [linkedin.com/in/subhrajitmakur](https://www.linkedin.com/in/subhrajitmakur/) |
 | Ednalyn De Dios | [github.com/michaeldavis](https://github.com/michaeldavis) | [linkedin.com/in/michaeldavis](https://linkedin.com/in/michaeldavis) |
 | Saurav Yadav | [github.com/sauravyadav01](https://github.com/sauravyadav01) | [linkedin.com/in/saurav-yadav-b4051b246](https://www.linkedin.com/in/saurav-yadav-b4051b246) |
-| William Green | [github.com/wbgreen0405](https://github.com/wbgreen0405/caselaw_ai) | [linkedin.com/in/avathomas](https://linkedin.com/in/avathomas) |
+| William Green | [github.com/wbgreen0405](https://github.com/wbgreen0405) | [linkedin.com/in/greenwilliam/](https://www.linkedin.com/in/greenwilliam/) |
 | Soumya Shastri | [github.com/Soumya-Shastri](https://github.com/Soumya-Shastri) | [linkedin.com/in/soumya-shastri-629756192/](https://www.linkedin.com/in/soumya-shastri-629756192/) |
 | Cristian Morales | [github.com/crismolav](http://github.com/crismolav) | [linkedin.com/in/cmoraleso/](https://www.linkedin.com/in/cmoraleso/) |
 | Safni Usman | [github.com/UsmanSafni](https://github.com/UsmanSafni) | [linkedin.com/in/safniusman](https://www.linkedin.com/in/safniusman) |
