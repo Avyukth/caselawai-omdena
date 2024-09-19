@@ -7,7 +7,7 @@
 | Jaelin Lee | [github.com/jaelin215](https://github.com/jaelin215) | [linkedin.com/in/jaelin-lee-23678458/](https://www.linkedin.com/in/jaelin-lee-23678458/) |
 | Narayan Adhikari | [github.com/adhikarinarayan](github.com/adhikarinarayan) | [linkedin.com/in/adhikarinarayan/](https://www.linkedin.com/in/adhikarinarayan/) |
 | Rana Kabiraj | [github.com/Rakabi007](https://github.com/Rakabi007) | [linkedin.com/in/rana-kabiraj-991495167/](https://www.linkedin.com/in/rana-kabiraj-991495167/) 
-| Hanieh Moshki | [github.com/williammartinez](https://github.com/williammartinez) | [linkedin.com/in/williammartinez](https://linkedin.com/in/williammartinez) |
+| Hanieh Moshki | [github.com/haniehm](https://github.com/haniehm) | [https://www.linkedin.com/in/hanieh-moshki-b90a132/](https://www.linkedin.com/in/hanieh-moshki-b90a132/) |
 | Trishika Boyila | [github.com/robertjohnson](https://github.com/robertjohnson) | [linkedin.com/in/robertjohnson](https://linkedin.com/in/robertjohnson) |
 | Subhrajit Makur | [github.com/avyukth](https://github.com/avyukth) | [linkedin.com/in/subhrajitmakur](https://www.linkedin.com/in/subhrajitmakur/) |
 | Ednalyn De Dios | [github.com/michaeldavis](https://github.com/michaeldavis) | [linkedin.com/in/michaeldavis](https://linkedin.com/in/michaeldavis) |
