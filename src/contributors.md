@@ -6,7 +6,7 @@
 | Huleji | [github.com/kinghendrix10](https://github.com/kinghendrix10) | [linkedin.com/in/huleji-tukura/](https://www.linkedin.com/in/huleji-tukura) |
 | Jaelin Lee | [github.com/jaelin215](https://github.com/jaelin215) | [linkedin.com/in/jaelin-lee-23678458/](https://www.linkedin.com/in/jaelin-lee-23678458/) |
 | Narayan Adhikari | [github.com/adhikarinarayan](github.com/adhikarinarayan) | [linkedin.com/in/adhikarinarayan/](https://www.linkedin.com/in/adhikarinarayan/) |
-| Rana Kabiraj | [github.com/Rakabi007](https://github.com/Rakabi007) | [linkedin.com/in/rana-kabiraj-991495167/](https://www.linkedin.com/in/rana-kabiraj-991495167/) 
+| Rana Kabiraj | [github.com/Rakabi007](https://github.com/Rakabi007) | [linkedin.com/in/rana-kabiraj-991495167/](https://www.linkedin.com/in/rana-kabiraj-991495167/)
 | Hanieh Moshki | [github.com/haniehm](https://github.com/haniehm) | [https://www.linkedin.com/in/hanieh-moshki-b90a132/](https://www.linkedin.com/in/hanieh-moshki-b90a132/) |
 | Trishika Boyila | [github.com/robertjohnson](https://github.com/robertjohnson) | [linkedin.com/in/robertjohnson](https://linkedin.com/in/robertjohnson) |
 | Subhrajit Makur | [github.com/avyukth](https://github.com/avyukth) | [linkedin.com/in/subhrajitmakur](https://www.linkedin.com/in/subhrajitmakur/) |
@@ -16,8 +16,8 @@
 | Soumya Shastri | [github.com/Soumya-Shastri](https://github.com/Soumya-Shastri) | [linkedin.com/in/soumya-shastri-629756192/](https://www.linkedin.com/in/soumya-shastri-629756192/) |
 | Cristian Morales | [github.com/crismolav](http://github.com/crismolav) | [linkedin.com/in/cmoraleso/](https://www.linkedin.com/in/cmoraleso/) |
 | Safni Usman | [github.com/UsmanSafni](https://github.com/UsmanSafni) | [linkedin.com/in/safniusman](https://www.linkedin.com/in/safniusman) |
-<!-- | Chloe Martin | [github.com/chloemartin](https://github.com/chloemartin) | [linkedin.com/in/chloemartin](https://linkedin.com/in/chloemartin) |
-| Alexander Thompson | [github.com/alexanderthompson](https://github.com/alexanderthompson) | [linkedin.com/in/alexanderthompson](https://linkedin.com/in/alexanderthompson) |
+| Chhavi Kirtani | [github.com/chhavikirtani2000](https://github.com/chhavikirtani2000) | [linkedin.com/in/chhavi-kirtani-85b347178](https://www.linkedin.com/in/chhavi-kirtani-85b347178/) |
+<!-- | Alexander Thompson | [github.com/alexanderthompson](https://github.com/alexanderthompson) | [linkedin.com/in/alexanderthompson](https://linkedin.com/in/alexanderthompson) |
 | Harper Garcia | [github.com/harpergarcia](https://github.com/harpergarcia) | [linkedin.com/in/harpergarcia](https://linkedin.com/in/harpergarcia) |
 | Matthew Rodriguez | [github.com/matthewrodriguez](https://github.com/matthewrodriguez) | [linkedin.com/in/matthewrodriguez](https://linkedin.com/in/matthewrodriguez) |
 | Abigail Lee | [github.com/abigaillee](https://github.com/abigaillee) | [linkedin.com/in/abigaillee](https://linkedin.com/in/abigaillee) |
