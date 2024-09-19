@@ -15,7 +15,7 @@
 | William Green | [https://github.com/wbgreen0405](https://github.com/wbgreen0405/caselaw_ai) | [linkedin.com/in/avathomas](https://linkedin.com/in/avathomas) |
 | Soumya Shastri | [github.com/benjaminjackson](https://github.com/benjaminjackson) | [linkedin.com/in/benjaminjackson](https://linkedin.com/in/benjaminjackson) |
 | Cristian Morales | [http://github.com/crismolav](http://github.com/crismolav) | [https://www.linkedin.com/in/cmoraleso/](https://www.linkedin.com/in/cmoraleso/) |
-| Daniel Harris | [github.com/danielharris](https://github.com/danielharris) | [linkedin.com/in/danielharris](https://linkedin.com/in/danielharris) |
+| Safni Usman | [github.com/UsmanSafni](https://github.com/UsmanSafni) | [https://www.linkedin.com/in/safniusman](https://www.linkedin.com/in/safniusman) |
 | Chloe Martin | [github.com/chloemartin](https://github.com/chloemartin) | [linkedin.com/in/chloemartin](https://linkedin.com/in/chloemartin) |
 | Alexander Thompson | [github.com/alexanderthompson](https://github.com/alexanderthompson) | [linkedin.com/in/alexanderthompson](https://linkedin.com/in/alexanderthompson) |
 | Harper Garcia | [github.com/harpergarcia](https://github.com/harpergarcia) | [linkedin.com/in/harpergarcia](https://linkedin.com/in/harpergarcia) |
