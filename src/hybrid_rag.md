@@ -11,3 +11,7 @@ In this approach:
 4. Results from both are combined and sent to the Language Model (LLM) for final answer generation.
 
 This hybrid approach allows for comprehensive analysis of legal documents, capturing both semantic nuances and structured relationships. It enables flexible querying for both unstructured aspects of legal information and structured entity relationships.
+
+### Design Diagram
+
+![Hybrid Rag](./artifacts/hybrid.png)
