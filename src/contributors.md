@@ -3,7 +3,7 @@
 
 | Name | GitHub | LinkedIn |
 |---|---|---|
-| Rana Kabiraj | [github.com/johndoe](https://github.com/johndoe) | [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe) |
+| Rana Kabiraj | [https://github.com/Rakabi007](https://github.com/Rakabi007) | [https://www.linkedin.com/in/rana-kabiraj-991495167/](https://www.linkedin.com/in/rana-kabiraj-991495167/) |
 | Jaelin Lee | [https://github.com/jaelin215](https://github.com/jaelin215) | [https://www.linkedin.com/in/jaelin-lee-23678458/](https://www.linkedin.com/in/jaelin-lee-23678458/) |
 | Trishika Boyila | [github.com/robertjohnson](https://github.com/robertjohnson) | [linkedin.com/in/robertjohnson](https://linkedin.com/in/robertjohnson) |
 | Subhrajit Makur | [github.com/avyukth](https://github.com/avyukth) | [linkedin.com/in/subhrajitmakur](https://www.linkedin.com/in/subhrajitmakur/) |
@@ -13,7 +13,7 @@
 | Huleji | [https://github.com/kinghendrix10](https://github.com/kinghendrix10) | [linkedin.com/in/sophiaanderson](https://linkedin.com/in/sophiaanderson) |
 | Saurav Yadav | [github.com/sauravyadav01](https://github.com/sauravyadav01) | [https://www.linkedin.com/in/saurav-yadav-b4051b246](https://www.linkedin.com/in/saurav-yadav-b4051b246) |
 | William Green | [https://github.com/wbgreen0405](https://github.com/wbgreen0405/caselaw_ai) | [linkedin.com/in/avathomas](https://linkedin.com/in/avathomas) |
-| Soumya Shastri | [github.com/benjaminjackson](https://github.com/benjaminjackson) | [linkedin.com/in/benjaminjackson](https://linkedin.com/in/benjaminjackson) |
+| Soumya Shastri | [github.com/Soumya-Shastri](https://github.com/Soumya-Shastri) | [https://www.linkedin.com/in/soumya-shastri-629756192/](https://www.linkedin.com/in/soumya-shastri-629756192/) |
 | Cristian Morales | [http://github.com/crismolav](http://github.com/crismolav) | [https://www.linkedin.com/in/cmoraleso/](https://www.linkedin.com/in/cmoraleso/) |
 | Safni Usman | [github.com/UsmanSafni](https://github.com/UsmanSafni) | [https://www.linkedin.com/in/safniusman](https://www.linkedin.com/in/safniusman) |
 | Chloe Martin | [github.com/chloemartin](https://github.com/chloemartin) | [linkedin.com/in/chloemartin](https://linkedin.com/in/chloemartin) |
