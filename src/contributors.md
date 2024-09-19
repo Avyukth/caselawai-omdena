@@ -3,7 +3,7 @@
 
 | Name | GitHub | LinkedIn |
 |---|---|---|
-| Huleji | [github.com/kinghendrix10](https://github.com/kinghendrix10) | [linkedin.com/in/sophiaanderson](https://linkedin.com/in/sophiaanderson) |
+| Huleji | [github.com/kinghendrix10](https://github.com/kinghendrix10) | [linkedin.com/in/huleji-tukura/](https://www.linkedin.com/in/huleji-tukura) |
 | Jaelin Lee | [github.com/jaelin215](https://github.com/jaelin215) | [linkedin.com/in/jaelin-lee-23678458/](https://www.linkedin.com/in/jaelin-lee-23678458/) |
 | Narayan Adhikari | [github.com/adhikarinarayan](github.com/adhikarinarayan) | [linkedin.com/in/adhikarinarayan/](https://www.linkedin.com/in/adhikarinarayan/) |
 | Rana Kabiraj | [github.com/Rakabi007](https://github.com/Rakabi007) | [linkedin.com/in/rana-kabiraj-991495167/](https://www.linkedin.com/in/rana-kabiraj-991495167/) 
