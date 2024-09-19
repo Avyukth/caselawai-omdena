@@ -11,7 +11,7 @@
 | Narayan Adhikari | [github.com/adhikarinarayan](github.com/adhikarinarayan) | [https://www.linkedin.com/in/adhikarinarayan/](https://www.linkedin.com/in/adhikarinarayan/) |
 | Hanieh Moshki | [github.com/williammartinez](https://github.com/williammartinez) | [linkedin.com/in/williammartinez](https://linkedin.com/in/williammartinez) |
 | Huleji | [https://github.com/kinghendrix10](https://github.com/kinghendrix10) | [linkedin.com/in/sophiaanderson](https://linkedin.com/in/sophiaanderson) |
-| Saurav Yadav | [github.com/jamestaylor](https://github.com/jamestaylor) | [linkedin.com/in/jamestaylor](https://linkedin.com/in/jamestaylor) |
+| Saurav Yadav | [github.com/sauravyadav01](https://github.com/sauravyadav01) | [https://www.linkedin.com/in/saurav-yadav-b4051b246](https://www.linkedin.com/in/saurav-yadav-b4051b246) |
 | William Green | [https://github.com/wbgreen0405](https://github.com/wbgreen0405/caselaw_ai) | [linkedin.com/in/avathomas](https://linkedin.com/in/avathomas) |
 | Soumya Shastri | [github.com/benjaminjackson](https://github.com/benjaminjackson) | [linkedin.com/in/benjaminjackson](https://linkedin.com/in/benjaminjackson) |
 | Cristian Morales | [http://github.com/crismolav](http://github.com/crismolav) | [https://www.linkedin.com/in/cmoraleso/](https://www.linkedin.com/in/cmoraleso/) |
