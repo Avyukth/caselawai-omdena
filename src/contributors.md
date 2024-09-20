@@ -23,3 +23,7 @@
 | Eshaan Kushwaha | [github.com/abigaillee](https://github.com/abigaillee) | [linkedin.com/in/eshaan-kushwaha-335b7a1b1](https://www.linkedin.com/in/eshaan-kushwaha-335b7a1b1/) |
 | Rohan Mani | [github.com/rohan-mani96](https://github.com/rohan-mani96) | [linkedin.com/in/rohan-mani-profile/](https://www.linkedin.com/in/rohan-mani-profile/) |
 | Melat Kebede| [github.com/MelatKebedeAbraham](https://github.com/MelatKebedeAbraham) | [linkedin.com/in/melat-kebede-291309203](https://www.linkedin.com/in/melat-kebede-291309203) |
+| Tasbirul Alom| [github.com/tasbirul](https://github.com/tasbirul) | [linkedin.com/in/tasbirul](https://www.linkedin.com/in/tasbirul) |
+| Sweta Jena| [github.com/sweta-jena](https://github.com/sweta-jena) | [linkedin.com/in/sweta-jena](https://www.linkedin.com/in/sweta-jena) |
+| Nikhil Mekkattuparamban| [github.com/Nikhil-Mekkattuparamban](https://github.com/Nikhil-Mekkattuparamban) | [linkedin.com/in/Nikhil-Mekkattuparamban](https://www.linkedin.com/in/Nikhil-Mekkattuparamban) |
+
