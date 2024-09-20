@@ -19,3 +19,5 @@ In Graph RAG, legal documents are processed to extract entities and relationship
 ## Limitations:
 
 - May not fully capture the semantic nuances in legal arguments and opinions
+
+![Graph Rag](./artifacts/graph.png)
