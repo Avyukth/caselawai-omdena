@@ -8,7 +8,7 @@
 | Narayan Adhikari | [github.com/adhikarinarayan](github.com/adhikarinarayan) | [linkedin.com/in/adhikarinarayan/](https://www.linkedin.com/in/adhikarinarayan/) |
 | Rana Kabiraj | [github.com/Rakabi007](https://github.com/Rakabi007) | [linkedin.com/in/rana-kabiraj-991495167/](https://www.linkedin.com/in/rana-kabiraj-991495167/)
 | Hanieh Moshki | [github.com/haniehm](https://github.com/haniehm) | [https://www.linkedin.com/in/hanieh-moshki-b90a132/](https://www.linkedin.com/in/hanieh-moshki-b90a132/) |
-| Trishika Boyila | [github.com/robertjohnson](https://github.com/robertjohnson) | [linkedin.com/in/robertjohnson](https://linkedin.com/in/robertjohnson) |
+| Trishika Boyila | [github.com/boyila](https://github.com/boyila) | [linkedin.com/in/trishikab](https://www.linkedin.com/in/trishikab/) |
 | Namya K | [github.com/nxmyx-k](https://github.com/nxmyx-k) | [linkedin.com/in/namya-kumar/](https://www.linkedin.com/in/namya-kumar/) |
 | Subhrajit Makur | [github.com/avyukth](https://github.com/avyukth) | [linkedin.com/in/subhrajitmakur](https://www.linkedin.com/in/subhrajitmakur/) |
 | Ednalyn De Dios | [github.com/michaeldavis](https://github.com/michaeldavis) | [linkedin.com/in/michaeldavis](https://linkedin.com/in/michaeldavis) |
@@ -21,5 +21,5 @@
 | Kaustubh Patil | [github.com/alexanderthompson](https://github.com/alexanderthompson) | [linkedin.com/in/kaustubh-patil-5825811a2](https://www.linkedin.com/in/kaustubh-patil-5825811a2/) |
 | Nijaguna Darshan | [github.com/nijdarshan](https://github.com/nijdarshan) | [linkedin.com/in/nijaguna-darshan](https://www.linkedin.com/in/nijaguna-darshan/) |
 | Eshaan Kushwaha | [github.com/abigaillee](https://github.com/abigaillee) | [linkedin.com/in/eshaan-kushwaha-335b7a1b1](https://www.linkedin.com/in/eshaan-kushwaha-335b7a1b1/) |
-<!-- | Ethan Walker | [github.com/ethanwalker](https://github.com/ethanwalker) | [linkedin.com/in/ethanwalker](https://linkedin.com/in/ethanwalker) |
-| Lillian Hall | [github.com/lillianhall](https://github.com/lillianhall) | [linkedin.com/in/lillianhall](https://linkedin.com/in/lillianhall) | -->
+| Rohan Mani | [github.com/rohan-mani96](https://github.com/rohan-mani96) | [linkedin.com/in/rohan-mani-profile/](https://www.linkedin.com/in/rohan-mani-profile/) |
+| Melat Kebede| [github.com/MelatKebedeAbraham](https://github.com/MelatKebedeAbraham) | [linkedin.com/in/melat-kebede-291309203](https://www.linkedin.com/in/melat-kebede-291309203) |
