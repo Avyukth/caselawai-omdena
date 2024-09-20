@@ -19,7 +19,7 @@
 | Safni Usman | [github.com/UsmanSafni](https://github.com/UsmanSafni) | [linkedin.com/in/safniusman](https://www.linkedin.com/in/safniusman) |
 | Chhavi Kirtani | [github.com/chhavikirtani2000](https://github.com/chhavikirtani2000) | [linkedin.com/in/chhavi-kirtani-85b347178](https://www.linkedin.com/in/chhavi-kirtani-85b347178/) |
 | Kaustubh Patil | [github.com/alexanderthompson](https://github.com/alexanderthompson) | [linkedin.com/in/kaustubh-patil-5825811a2](https://www.linkedin.com/in/kaustubh-patil-5825811a2/) |
-<!-- | Matthew Rodriguez | [github.com/matthewrodriguez](https://github.com/matthewrodriguez) | [linkedin.com/in/matthewrodriguez](https://linkedin.com/in/matthewrodriguez) |
-| Abigail Lee | [github.com/abigaillee](https://github.com/abigaillee) | [linkedin.com/in/abigaillee](https://linkedin.com/in/abigaillee) |
-| Ethan Walker | [github.com/ethanwalker](https://github.com/ethanwalker) | [linkedin.com/in/ethanwalker](https://linkedin.com/in/ethanwalker) |
+| Nijaguna Darshan | [github.com/matthewrodriguez](https://github.com/matthewrodriguez) | [linkedin.com/in/nijaguna-darshan/](https://www.linkedin.com/in/nijaguna-darshan/) |
+| Eshaan Kushwaha | [github.com/abigaillee](https://github.com/abigaillee) | [linkedin.com/in/eshaan-kushwaha-335b7a1b1/](https://www.linkedin.com/in/eshaan-kushwaha-335b7a1b1/) |
+<!-- | Ethan Walker | [github.com/ethanwalker](https://github.com/ethanwalker) | [linkedin.com/in/ethanwalker](https://linkedin.com/in/ethanwalker) |
 | Lillian Hall | [github.com/lillianhall](https://github.com/lillianhall) | [linkedin.com/in/lillianhall](https://linkedin.com/in/lillianhall) | -->
