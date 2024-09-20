@@ -8,8 +8,8 @@
 - [Project Objectives](./project-objectives.md)
 
 - [Data Collection](./data-collection.md)
-    - [Data Sources](./data-sources.md)
-    - [Data Preprocessing](./data-preprocessing.md)
+    <!-- - [Data Sources](./data-sources.md)
+    - [Data Preprocessing](./data-preprocessing.md) -->
 
 - [Data Analysis](./data-analysis.md)
     - [Exploratory Data Analysis](./exploratory-data-analysis.md)
@@ -17,9 +17,9 @@
 
 - [Model Development](./model-development.md)
     - [Language Model Selection](./language-model-selection.md)
-      -  [Vector RAG](./vector_rag.md)
-      - [Graph RAG](./graph_rag.md)
-      - [Hybrid RAG](./hybrid_rag.md)
+      -  [Vector RAG](./vector-rag.md)
+      - [Graph RAG](./graph-rag.md)
+      - [Hybrid RAG](./hybrid-rag.md)
     - [Fine-Tuning the Model](./fine-tuning-the-model.md)
     - [Generating Summaries](./generating-summaries.md)
 

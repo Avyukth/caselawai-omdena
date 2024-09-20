@@ -17,8 +17,8 @@
 | Cristian Morales | [github.com/crismolav](http://github.com/crismolav) | [linkedin.com/in/cmoraleso/](https://www.linkedin.com/in/cmoraleso/) |
 | Safni Usman | [github.com/UsmanSafni](https://github.com/UsmanSafni) | [linkedin.com/in/safniusman](https://www.linkedin.com/in/safniusman) |
 | Chhavi Kirtani | [github.com/chhavikirtani2000](https://github.com/chhavikirtani2000) | [linkedin.com/in/chhavi-kirtani-85b347178](https://www.linkedin.com/in/chhavi-kirtani-85b347178/) |
-<!-- | Alexander Thompson | [github.com/alexanderthompson](https://github.com/alexanderthompson) | [linkedin.com/in/alexanderthompson](https://linkedin.com/in/alexanderthompson) |
-| Harper Garcia | [github.com/harpergarcia](https://github.com/harpergarcia) | [linkedin.com/in/harpergarcia](https://linkedin.com/in/harpergarcia) |
+| Kaustubh Patil | [github.com/alexanderthompson](https://github.com/alexanderthompson) | [linkedin.com/in/kaustubh-patil-5825811a2](https://www.linkedin.com/in/kaustubh-patil-5825811a2/) |
+<!-- | Harper Garcia | [github.com/harpergarcia](https://github.com/harpergarcia) | [linkedin.com/in/harpergarcia](https://linkedin.com/in/harpergarcia) |
 | Matthew Rodriguez | [github.com/matthewrodriguez](https://github.com/matthewrodriguez) | [linkedin.com/in/matthewrodriguez](https://linkedin.com/in/matthewrodriguez) |
 | Abigail Lee | [github.com/abigaillee](https://github.com/abigaillee) | [linkedin.com/in/abigaillee](https://linkedin.com/in/abigaillee) |
 | Ethan Walker | [github.com/ethanwalker](https://github.com/ethanwalker) | [linkedin.com/in/ethanwalker](https://linkedin.com/in/ethanwalker) |
