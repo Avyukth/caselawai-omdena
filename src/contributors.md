@@ -4,10 +4,10 @@
 | Name | GitHub | LinkedIn |
 |---|---|---|
 | Huleji | [github.com/kinghendrix10](https://github.com/kinghendrix10) | [linkedin.com/in/huleji-tukura](https://www.linkedin.com/in/huleji-tukura) |
-| Jaelin Lee | [github.com/jaelin215](https://github.com/jaelin215) | [linkedin.com/in/jaelin-lee-23678458/](https://www.linkedin.com/in/jaelin-lee-23678458/) |
-| Narayan Adhikari | [github.com/adhikarinarayan](github.com/adhikarinarayan) | [linkedin.com/in/adhikarinarayan/](https://www.linkedin.com/in/adhikarinarayan/) |
-| Rana Kabiraj | [github.com/Rakabi007](https://github.com/Rakabi007) | [linkedin.com/in/rana-kabiraj-991495167/](https://www.linkedin.com/in/rana-kabiraj-991495167/)
-| Hanieh Moshki | [github.com/haniehm](https://github.com/haniehm) | [https://www.linkedin.com/in/hanieh-moshki-b90a132/](https://www.linkedin.com/in/hanieh-moshki-b90a132/) |
+| Jaelin Lee | [github.com/jaelin215](https://github.com/jaelin215) | [linkedin.com/in/jaelin-lee-23678458](https://www.linkedin.com/in/jaelin-lee-23678458/) |
+| Narayan Adhikari | [github.com/adhikarinarayan](github.com/adhikarinarayan) | [linkedin.com/in/adhikarinarayan](https://www.linkedin.com/in/adhikarinarayan/) |
+| Rana Kabiraj | [github.com/Rakabi007](https://github.com/Rakabi007) | [linkedin.com/in/rana-kabiraj-991495167](https://www.linkedin.com/in/rana-kabiraj-991495167/)
+| Hanieh Moshki | [github.com/haniehm](https://github.com/haniehm) | [linkedin.com/in/hanieh-moshki-b90a132](https://www.linkedin.com/in/hanieh-moshki-b90a132/) |
 | Trishika Boyila | [github.com/boyila](https://github.com/boyila) | [linkedin.com/in/trishikab](https://www.linkedin.com/in/trishikab/) |
 | Namya K | [github.com/nxmyx-k](https://github.com/nxmyx-k) | [linkedin.com/in/namya-kumar/](https://www.linkedin.com/in/namya-kumar/) |
 | Subhrajit Makur | [github.com/avyukth](https://github.com/avyukth) | [linkedin.com/in/subhrajitmakur](https://www.linkedin.com/in/subhrajitmakur/) |
@@ -26,4 +26,5 @@
 | Tasbirul Alom| [github.com/tasbirul](https://github.com/tasbirul) | [linkedin.com/in/tasbirul](https://www.linkedin.com/in/tasbirul) |
 | Sweta Jena| [github.com/sweta-jena](https://github.com/sweta-jena) | [linkedin.com/in/sweta-jena](https://www.linkedin.com/in/sweta-jena) |
 | Nikhil Mekkattuparamban| [github.com/Nikhil-Mekkattuparamban](https://github.com/Nikhil-Mekkattuparamban) | [linkedin.com/in/Nikhil-Mekkattuparamban](https://www.linkedin.com/in/Nikhil-Mekkattuparamban) |
+|Novedeep Jeerh| [github.com/NovedeepJeerh](https://github.com/NovedeepJeerh) | [linkedin.com/in/novedeep-jeerh/](https://www.linkedin.com/in/novedeep-jeerh/) |
 
