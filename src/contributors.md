@@ -27,4 +27,6 @@
 | Sweta Jena| [github.com/sweta-jena](https://github.com/sweta-jena) | [linkedin.com/in/sweta-jena](https://www.linkedin.com/in/sweta-jena) |
 | Nikhil Mekkattuparamban| [github.com/Nikhil-Mekkattuparamban](https://github.com/Nikhil-Mekkattuparamban) | [linkedin.com/in/Nikhil-Mekkattuparamban](https://www.linkedin.com/in/Nikhil-Mekkattuparamban) |
 |Novedeep Jeerh| [github.com/NovedeepJeerh](https://github.com/NovedeepJeerh) | [linkedin.com/in/novedeep-jeerh/](https://www.linkedin.com/in/novedeep-jeerh/) |
+|Komal Patra| [github.com/Komal-patra](https://github.com/Komal-patra) | [linkedin.com/in/komal-patra](https://www.linkedin.com/in/komal-patra/) |
+|Rohan Gupta| [github.com/roohanguptaa](https://github.com/roohanguptaa) | [linkedin.com/in/rohan-gupta-064614209](http://www.linkedin.com/in/rohan-gupta-064614209) |
 
