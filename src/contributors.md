@@ -29,4 +29,5 @@
 |Novedeep Jeerh| [github.com/NovedeepJeerh](https://github.com/NovedeepJeerh) | [linkedin.com/in/novedeep-jeerh/](https://www.linkedin.com/in/novedeep-jeerh/) |
 |Komal Patra| [github.com/Komal-patra](https://github.com/Komal-patra) | [linkedin.com/in/komal-patra](https://www.linkedin.com/in/komal-patra/) |
 |Rohan Gupta| [github.com/roohanguptaa](https://github.com/roohanguptaa) | [linkedin.com/in/rohan-gupta-064614209](http://www.linkedin.com/in/rohan-gupta-064614209) |
+|John Paul| [github.com/dvhub7](https://github.com/dvhub7) | [linkedin.com/in/otiz/](https://www.linkedin.com/in/otiz/) |
 
